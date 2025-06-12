@@ -21,20 +21,21 @@ website:
 
   navbar:
     logo: assets/silvia/img/logo_rounded.svg
+    navbar:
+      title: "Yoshee Jain"
+      title-href: index.qmd
     tools:
       - icon: github
         href: https://www.github.com/yosheejain
-    # right:
-    #   - text: About
-    #     href: about/index.qmd
-    #   - text: Blog
-    #     href: blog/index.qmd
-    #   - text: Talks
-    #     href: talk/index.qmd  
-    #   - text: Publications
-    #     href: publication/index.qmd
-    #   - text: Projects
-    #     href: project/index.qmd
+    right:
+      - text: About
+        href: construction.qmd 
+      - text: Experience
+        href: construction.qmd 
+      - text: Publications
+        href: construction.qmd 
+      - text: Awards
+        href: construction.qmd 
   
   page-footer:  
     left: >-
