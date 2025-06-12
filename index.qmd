@@ -62,17 +62,30 @@ I am a junior pursuing my undergraduate degree in Computer Science at the Univer
 ::: {.news-wrapper}
 ::: {.news-container}
 <div class="news-item">
-  <span class="news-date">May 2025</span>
-  🚀 Interning at KAIST with Dr. Juho Kim this summer!
+  <span class="news-date">Jun 2025</span>
+  🚀 Presenting <a href="https://link.springer.com/chapter/10.1007/978-3-031-92967-0_14">our paper</a> remotely at HCII 2025!
 </div>
 <div class="news-item">
   <span class="news-date">May 2025</span>
-  🎉 Received the Jeffrey P. Blahut Memorial Scholarship!
+  🎉 Received the <a href="https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship">Jeffrey P. Blahut Memorial Scholarship</a>!
+</div>
+<div class="news-item">
+  <span class="news-date">May 2025</span>
+  🇰🇷 Interning at KIXLAB, KAIST with <a href="https://juhokim.com/">Dr. Juho Kim</a> in Daejeon, South Korea this summer!
+</div>
+<div class="news-item">
+  <span class="news-date">May 2025</span>
+  📚 Recevied the Harold and Ruth Hayward/Tau Beta Pi Award Fund!
 </div>
 <div class="news-item">
   <span class="news-date">April 2025</span>
   🌸 Traveling to Yokohama, Japan to present <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713832">PLAID!</a>
 </div>
+<div class="news-item">
+  <span class="news-date">Jan 2025</span>
+  💐 Our paper <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713832">PLAID</a> is accepted at CHI 2025!</a>
+</div>
+
 :::
 :::
 
