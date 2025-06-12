@@ -1,12 +1,12 @@
 ---
-title: "Silvia Canelón, PhD"
-pagetitle: "Silvia Canelón, PhD"
-subtitle: "Data Scientist at the University of Pennsylvania"
-image: assets/silvia/img/skyline-philly-dual.png
-image-alt: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"
+title: "Yoshee Jain"
+pagetitle: "Yoshee Jain"
+subtitle: "Undergraduate at the University of Illinois Urbana-Champaign"
+image: assets/img/yosheejainnew.png
+image-alt: ""
 
 twitter-card:
-    title: Silvia Canelón, PhD
+    title: Yoshee Jain
     description: |
       Researcher, educator, and journalist with data science expertise.
     image: assets/silvia/img/silvia-social.png
@@ -21,13 +21,13 @@ about:
       href: accessibility.qmd
     - text: "{{< fa brands bluesky >}}"
       aria-label: "Bluesky"
-      href: https://bsky.app/profile/silviacanelon.com
+      href: https://bsky.app/profile/yosheejain.com
     - icon: linkedin
       aria-label: "LinkedIn"
-      href: https://linkedin.com/in/spcanelon
+      href: https://linkedin.com/in/yosheejain
     - icon: github
       aria-label: GitHub
-      href: https://github.com/spcanelon
+      href: https://github.com/yosheejain
     # - icon: mastodon
     #   href: https://hachyderm.io/@spcanelon
     - text: "{{< ai orcid >}}"
@@ -56,9 +56,7 @@ resources:
 
 ::: {#hero-heading}
 
-I am a researcher, R educator, and data journalist with a love for community. My **research** leverages electronic health record and spatial data to study the intersection of health equity and urban nature. My **journalism** and **community** projects value the partnership between open source tools and data literacy as a way to build power and effect change.
-
-[Learn more about me &rarr;](/about){.about-links .subtitle}
+I am a junior pursuing my undergraduate degree in Computer Science at the University of Illinois, Urbana-Champaign, with a passion for research in Human-Computer Interaction, CS Education, and Applied AI/ML. My research interests are in designing human-centered systems that can integrate computing as a tool in real-world applications. I want to design educational technology tools so that all students can engage with computing in ways relevant to their learning objectives and meaningful for their future goals. The following is a non-exhaustive list that summarizes my technical skills and tools I've worked with! Feel free to reach out to me to chat about any of these or anything else!
 
 :::
 <!-- hero-heading -->

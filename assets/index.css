@@ -45,11 +45,22 @@
   justify-content: flex-end !important;
 }
 
-/* image */
 .about-image {
   margin-top: -2em;
   padding: 0 2em 0em 0;
 }
+
+/* make profile image circular globally */
+.about-image img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 /* // Home
 
@@ -102,5 +113,12 @@
     .about-image {
       order: 1 !important;
       padding: 0 2em 0 2em !important;
+      border-radius: 50%;
     }
+
+    .about-image img {
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
 }

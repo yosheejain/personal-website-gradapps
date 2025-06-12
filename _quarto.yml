@@ -24,17 +24,17 @@ website:
     tools:
       - icon: github
         href: https://www.github.com/spcanelon/silvia
-    right:
-      - text: About
-        href: about/index.qmd
-      - text: Blog
-        href: blog/index.qmd
-      - text: Talks
-        href: talk/index.qmd  
-      - text: Publications
-        href: publication/index.qmd
-      - text: Projects
-        href: project/index.qmd
+    # right:
+    #   - text: About
+    #     href: about/index.qmd
+    #   - text: Blog
+    #     href: blog/index.qmd
+    #   - text: Talks
+    #     href: talk/index.qmd  
+    #   - text: Publications
+    #     href: publication/index.qmd
+    #   - text: Projects
+    #     href: project/index.qmd
   
   page-footer:  
     left: >-

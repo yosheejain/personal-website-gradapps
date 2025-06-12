@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.7.31">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
 <meta name="dcterms.date" content="2020-08-31">
 <meta name="description" content="An introductory tidyverse tutorial created and presented for R-Ladies Chicago">
-
 <title>An Antarctic Tour of the Tidyverse – Silvia Canelón</title>
 <style>
 code{white-space: pre-wrap;}
@@ -23,7 +20,6 @@ ul.task-list li input[type="checkbox"] {
   vertical-align: middle;
 }
 </style>
-
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../site_libs/quarto-nav/headroom.min.js"></script>
@@ -48,8 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
-<script id="quarto-search-options" type="application/json">{
+<link href="../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet"><script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
@@ -75,10 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
-}</script>
-<script src="../../site_libs/fitvids-2.1.1/fitvids.min.js"></script>
-
-
+}</script><script src="../../site_libs/fitvids-2.1.1/fitvids.min.js"></script>
 <meta name="twitter:title" content="An Antarctic Tour of the Tidyverse">
 <meta name="twitter:description" content="An introductory tidyverse tutorial created and presented for R-Ladies Chicago">
 <meta name="twitter:image" content="https://silviacanelon.com/talk/2020-08-31-tour-of-the-tidyverse/featured.jpg">
@@ -86,7 +78,6 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:site" content="@spcanelon">
 <meta name="twitter:card" content="summary_large_image">
 </head>
-
 <body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
@@ -252,55 +243,21 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner"><nav class="navbar navbar-expand-lg " data-bs-theme="dark"><div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../assets/silvia/img/logo_rounded.svg" alt="" class="navbar-logo">
-    </a>
+    <img src="../../assets/silvia/img/logo_rounded.svg" alt="" class="navbar-logo"></a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Silvia Canelón</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../about/index.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../blog/index.html"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../talk/index.html"> 
-<span class="menu-text">Talks</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../publication/index.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../project/index.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+        <div class="quarto-navbar-tools tools-end">
     <a href="https://www.github.com/spcanelon/silvia" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
+          <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
-    </nav>
-</header>
-<!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns">
-<div id="title-block-header-title" class="quarto-title page-columns page-full page-layout-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);">
+    </nav></header><!-- content --><header id="title-block-header" class="quarto-title-block default page-columns"><div id="title-block-header-title" class="quarto-title page-columns page-full page-layout-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);">
 <h1 class="title">An Antarctic Tour of the Tidyverse</h1>
 <p class="subtitle lead">An introductory tidyverse tutorial created and presented for R-Ladies Chicago</p>
     <div class="quarto-categories">
@@ -352,25 +309,12 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
-
-
-<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
-<!-- 
+<main class="content quarto-banner-title-block" id="quarto-document-content"><!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html --><!-- 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title"> 
--->
-<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
-<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
-
-
-
-<section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">Description</h2>
+--><!-- <header id="title-block-header" class="quarto-title-block default page-columns"> --><!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> --><section id="description" class="level2"><h2 class="anchored" data-anchor-id="description">Description</h2>
 <p>Learn how to explore and manipulate data in R with packages from the Tidyverse. We’ll introduce the <a href="https://www.tidyverse.org/packages/#core-tidyverse">eight core packages that make up the Tidyverse</a> and use at least one function from each package while exploring a dataset on the migration of penguins. <br><br></p>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+</section><section id="slides" class="level2"><h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <div class="cell">
 <div class="cell-output-display">
 <div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
@@ -381,10 +325,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
-<script id="quarto-html-after-body" type="application/javascript">
+</section><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
     if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -795,12 +736,10 @@ ul.task-list li input[type="checkbox"] {
       }
     }
   });
-  </script>
-<script src="https://utteranc.es/client.js" repo="spcanelon/silvia" issue-term="title" theme="body-light" crossorigin="anonymous" async="">
+  </script><script src="https://utteranc.es/client.js" repo="spcanelon/silvia" issue-term="title" theme="body-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
+<footer class="footer"><div class="nav-footer">
     <div class="nav-footer-left">
 <p>© 2024 Silvia Canelón ∙ Made with <a href="https://quarto.org">Quarto</a></p>
 </div>   
@@ -809,7 +748,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
-    <li class="nav-item">
+<li class="nav-item">
     <a class="nav-link" href="../../accessibility.html">
 <p>Accessibility</p>
 </a>
@@ -831,11 +770,9 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </li>  
 </ul>
-    </div>
+</div>
   </div>
 </footer>
-
-
 
 
 </body></html>
