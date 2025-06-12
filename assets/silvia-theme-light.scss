@@ -4,6 +4,21 @@
 // Variables: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-variables.scss
 // Rules: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-rules.scss
 
+// Define custom variables used in light theme
+$spc-primary: #003366;
+$spc-primary-light: #d6ecff;
+
+$spc-secondary: #6c757d;
+$spc-secondary-light: #adb5bd;
+
+$spc-accent: #ff4081;
+$spc-accent-light: #ffc1e3;
+$spc-accent-dark: #c2185b;
+
+$spc-bg-0: #ffffff;
+$spc-bg-1: #f0f0f0;
+$spc-bg-00: #eaeaea;
+
 // Colors: Quarto variables
 $primary:                    $spc-primary-light;
 $secondary:                  $spc-secondary;
