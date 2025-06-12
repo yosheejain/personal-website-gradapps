@@ -71,6 +71,10 @@ I am a junior pursuing my undergraduate degree in Computer Science at the Univer
 </div>
 <div class="news-item">
   <span class="news-date">May 2025</span>
+  🏅 Received the Campus Honors Program Summer Travel Award for traveling to Korea!</a>
+</div>
+<div class="news-item">
+  <span class="news-date">May 2025</span>
   🇰🇷 Interning at KIXLAB, KAIST with <a href="https://juhokim.com/">Dr. Juho Kim</a> in Daejeon, South Korea this summer!
 </div>
 <div class="news-item">
@@ -78,12 +82,32 @@ I am a junior pursuing my undergraduate degree in Computer Science at the Univer
   📚 Recevied the Harold and Ruth Hayward/Tau Beta Pi Award Fund!
 </div>
 <div class="news-item">
-  <span class="news-date">April 2025</span>
+  <span class="news-date">Apr 2025</span>
   🌸 Traveling to Yokohama, Japan to present <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713832">PLAID!</a>
 </div>
 <div class="news-item">
+  <span class="news-date">Mar 2025</span>
+  💰 Received conference travel grants from the Office of Undergraduate Research and Campus Honors Program to support PLAID!</a>
+</div>
+<div class="news-item">
   <span class="news-date">Jan 2025</span>
-  💐 Our paper <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713832">PLAID</a> is accepted at CHI 2025!</a>
+  📊 Our paper related to <a href="https://link.springer.com/chapter/10.1007/978-3-031-92967-0_14">LLMs for Reading Comprehension</a> is accepted at HCII 2025!</a>
+</div>
+<div class="news-item">
+  <span class="news-date">Jan 2025</span>
+  💐 Our paper <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713832">PLAID</a> (my first first-author 🎊) is accepted at CHI 2025!</a>
+</div>
+<div class="news-item">
+  <span class="news-date">Jan 2025</span>
+  🎬 Saw that I got my first <a href="https://scholar.google.com/citations?user=HSgotCcAAAAJ&hl=en">citation!</a>
+</div>
+<div class="news-item">
+  <span class="news-date">Dec 2024</span>
+  📝 Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3709366">AI vs. Humans for Online Support</a> (my first publication 🙌🏻) is accepted at ACM HEALTH!
+</div>
+<div class="news-item">
+  <span class="news-date">May 2024</span>
+  💪🏻 Interning at HCII, CMU with <a href="https://sites.google.com/site/jiognhaolin/home?authuser=0">Dr. Jionghao Lin</a> in collaboration with Liang Zhang, Dr. John Hollander, and Dr. John Sabatini!
 </div>
 
 :::
